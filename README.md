@@ -76,10 +76,6 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
 
-#### Using installer
- ```
- curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash
- ```
 #### Manually
 **Installing requirements**
  ```
@@ -88,7 +84,7 @@ Please note that root access is required.
  ```
 **Getting OneShot**
  ```
- git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+ git clone --depth 1 https://github.com/tanvirr007/OneShot OneShot
  ```
 #### Running
  ```
